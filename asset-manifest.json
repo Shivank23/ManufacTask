@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ManufacTask/static/css/main.e31dab2c.css",
+    "main.js": "/ManufacTask/static/js/main.ea211def.js",
+    "index.html": "/ManufacTask/index.html",
+    "main.e31dab2c.css.map": "/ManufacTask/static/css/main.e31dab2c.css.map",
+    "main.ea211def.js.map": "/ManufacTask/static/js/main.ea211def.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e31dab2c.css",
+    "static/js/main.ea211def.js"
+  ]
+}
